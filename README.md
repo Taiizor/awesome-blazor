@@ -16,6 +16,7 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Templates](#templates)
 * [Sample Projects](#sample-projects)
 * [Tutorials](#tutorials)
+* [Routing & Navigation](#routing--navigation)
 * [Libraries & Extensions](#libraries--extensions)
 * [Source generators](#source-generators)
 * [Real-World applications](#real-world-applications)
@@ -285,6 +286,10 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [BlazorGravatar](https://github.com/PSCourtney/BlazorGravatar) - ![stars](https://img.shields.io/github/stars/PSCourtney/BlazorGravatar?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PSCourtney/BlazorGravatar?style=flat-square&cacheSeconds=86400) A Blazor component for integrating Gravatar, Blazor WASM, Server and SSR.
 * [BlazorDragDrop](https://github.com/Postlagerkarte/Blazor-DragDrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/Blazor-DragDrop?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/Blazor-DragDrop?style=flat-square&cacheSeconds=86400) A simple drag-and-drop library for Blazor components.
 * [BlazorTreeViews](https://github.com/excubo-ag/Blazor.TreeViews) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.TreeViews?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square&cacheSeconds=86400) A customizable tree view component for Blazor applications.
+
+### Routing & Navigation
+*Libraries and extensions for routing and navigation.*
+* [Blazouter](https://github.com/Taiizor/Blazouter) - ![stars](https://img.shields.io/github/stars/Taiizor/Blazouter?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Taiizor/Blazouter?style=flat-square&cacheSeconds=86400) A powerful React Router-inspired routing library for Blazor applications with true nested routing, lazy loading, route guards, per-route layouts, and rich transitions. Supports Server, WebAssembly, and Hybrid (MAUI) hosting models. [Documentation](https://github.com/Taiizor/Blazouter).
 
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
